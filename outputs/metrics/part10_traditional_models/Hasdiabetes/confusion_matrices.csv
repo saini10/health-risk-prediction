@@ -1,0 +1,7 @@
+Model,Sampler,TP,FP,TN,FN
+Logistic Regression,Undersampling,1571,4523,13343,394
+Logistic Regression,SMOTE Oversampling,1542,4393,13473,423
+Decision Tree,Undersampling,1618,5706,12160,347
+Decision Tree,SMOTE Oversampling,1339,3477,14389,626
+Random Forest,Undersampling,1579,4958,12908,386
+Random Forest,SMOTE Oversampling,1342,3199,14667,623

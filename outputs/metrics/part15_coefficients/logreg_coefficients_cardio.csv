@@ -1,0 +1,101 @@
+Feature,Coefficient,Abs_Coefficient
+Age Group_65 and older,1.7011109149196455,1.7011109149196455
+Age Group_18 to 34 years,-1.223254271782128,1.223254271782128
+Perceived health _Excellent,-1.0079822406998957,1.0079822406998957
+Perceived health _Poor,0.902118726025766,0.902118726025766
+Age Group_35 to 49 years,-0.7621685707818407,0.7621685707818407
+Severity of Canabis Dependence_Unknown,0.7238784490580878,0.7238784490580878
+Perceived health _Fair,0.5668684723206872,0.5668684723206872
+Perceived health _Very good,-0.5651525379444357,0.5651525379444357
+High blood cholesterol / lipids - took medication - 1 month_No,-0.5022523535732107,0.5022523535732107
+Severity of Canabis Dependence_Takes cannabis & dependent on it,-0.4896284402064555,0.4896284402064555
+Has diabetes_Unknown,-0.48474462556806236,0.48474462556806236
+High blood pressure - took medication - 1 month_No,-0.4573787603944111,0.4573787603944111
+Sex at Birth_Female,-0.4311613616981219,0.4311613616981219
+High blood cholesterol / lipids - took medication - 1 month_Yes,0.4020089016858821,0.4020089016858821
+Satisfaction with life in general _Unknown,-0.3732290644575543,0.3732290644575543
+High blood pressure - took medication - 1 month_Yes,0.357135308506815,0.357135308506815
+Perceived mental health _Poor,-0.353749243569705,0.353749243569705
+Had a seasonal flu shot (excluding H1N1) - lifetime_Unknown,0.35023191801522086,0.35023191801522086
+Used cannabis - 12 months_Unknown,-0.34208178330172895,0.34208178330172895
+Sex at Birth_Male,0.33091790981071345,0.33091790981071345
+Perceived mental health _Unknown,0.30517761904142265,0.30517761904142265
+Severity of Canabis Dependence_Takes cannabis but no dependence,-0.29845488177757123,0.29845488177757123
+"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)_Unknown",-0.28300160879221836,0.28300160879221836
+Has respiratory chronic condition (asthma or COPD)_Unknown,-0.27841120842718403,0.27841120842718403
+Smoking status_Current daily smoker,-0.25318935677984156,0.25318935677984156
+Smoking status_Former occasional smoker (non-smoker now),0.2520313442908353,0.2520313442908353
+Has high blood cholesterol / lipids_Unknown,0.24755045583978194,0.24755045583978194
+Had a seasonal flu shot (excluding H1N1) - lifetime_Yes,-0.24591397692921377,0.24591397692921377
+Has sleep apnea_No,-0.23557186155536933,0.23557186155536933
+Satisfaction with life in general _Neither satisfied nor dissatisfied,0.2275893529368722,0.2275893529368722
+Has respiratory chronic condition (asthma or COPD)_Yes,0.21975054600110003,0.21975054600110003
+Perceived mental health _Fair,-0.21799874109544964,0.21799874109544964
+Has high blood cholesterol / lipids_Yes,-0.21620503529010943,0.21620503529010943
+Seasonal flu shot - last time_Valid skip,-0.20456139297331977,0.20456139297331977
+Had a seasonal flu shot (excluding H1N1) - lifetime_No,-0.20456139297331977,0.20456139297331977
+Has diabetes_No,0.19375343392415667,0.19375343392415667
+Has diabetes_Yes,0.1907477397567239,0.1907477397567239
+Age Group_50 to 64 years,0.18406847575686988,0.18406847575686988
+Has chronic fatigue syndrome_No,-0.1776739059773782,0.1776739059773782
+Considered suicide - last 12 months_Unknown,-0.17728352779169015,0.17728352779169015
+Has a high blood pressure_Yes,-0.16877401613424195,0.16877401613424195
+Smoking status_Current occasional smoker,-0.16190396325761605,0.16190396325761605
+Used cannabis - 12 months_No,0.15695842678723554,0.15695842678723554
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_Less than once a month,-0.15059997348759985,0.15059997348759985
+Smoking status_Former daily smoker (non-smoker now),0.14813279602762824,0.14813279602762824
+Considered suicide - lifetime_No,-0.13845305674329117,0.13845305674329117
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_Once a month,-0.13664457358789117,0.13664457358789117
+Has sleep apnea_Yes,0.135328409668091,0.135328409668091
+Perceived mental health _Excellent,0.13332447472555922,0.13332447472555922
+Has high blood cholesterol / lipids_No,-0.13158887243710898,0.13158887243710898
+Marital Status_Married/Common-law,-0.13104366264647607,0.13104366264647607
+"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)_Yes",0.1277839325297125,0.1277839325297125
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_2-3 times a month,0.1239997834362366,0.1239997834362366
+Considered suicide - last 12 months_No,0.11801114413875845,0.11801114413875845
+"Total Household Income - All Sources_$80,000 or more",-0.11302651783907426,0.11302651783907426
+"Has an anxiety disorder (phobia, OCD, panic)_Yes",-0.10609339507758833,0.10609339507758833
+Type of drinker_Regular drinker,-0.10569046916559603,0.10569046916559603
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_Never,0.10294273511369983,0.10294273511369983
+Smoking status_Unknown,-0.09818413910111473,0.09818413910111473
+Considered suicide - lifetime_Yes,0.09693946179771804,0.09693946179771804
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_More than once a week,-0.09409664961675092,0.09409664961675092
+Usual place for immediate care for minor problem_No,-0.09213859049127109,0.09213859049127109
+"Total Household Income - All Sources_$20,000 to $39,999",0.08671377976520492,0.08671377976520492
+Used cannabis - 12 months_Yes,0.08487990462719469,0.08487990462719469
+BMI classification for adults aged 18 and over (adjusted) - international_Unknown,-0.08431657442965962,0.08431657442965962
+Type of drinker_Did not drink in the last 12 months,0.08277719539181592,0.08277719539181592
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_Valid skip,0.08277719539181592,0.08277719539181592
+"BMI classification for adults aged 18 and over (adjusted) - international_Overweight / Obese - Class I, II, III",-0.07747249657665771,0.07747249657665771
+Has chronic fatigue syndrome_Yes,0.07743045409005499,0.07743045409005499
+Type of drinker_Occasional drinker,-0.07733017811383369,0.07733017811383369
+"Total Household Income - All Sources_$40,000 to $59,999",-0.07197942516177061,0.07197942516177061
+Seasonal flu shot - last time_1 year to less than 2 years ago,0.07041142866393951,0.07041142866393951
+Has a high blood pressure_No,0.06853056424685197,0.06853056424685197
+"Total Household Income - All Sources_$60,000 to $79,999",-0.06837220227219976,0.06837220227219976
+"Has a mood disorder (depression, bipolar, mania, dysthymia)_Yes",-0.06694809616446051,0.06694809616446051
+Perceived mental health _Very good,0.0656826747403226,0.0656826747403226
+BMI classification for adults aged 18 and over (adjusted) - international_Underweight/ Normal weight,0.06154561911876488,0.06154561911876488
+Considered suicide - lifetime_Unknown,-0.05872985694183869,0.05872985694183869
+Pain health status_Has usual pain or discomfort,-0.057800040285624486,0.057800040285624486
+"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)_No",0.05497422437521724,0.05497422437521724
+Seasonal flu shot - last time_Unknown,0.04665733014611601,0.04665733014611601
+Pain health status_No usual pain or discomfort,-0.04244341160159613,0.04244341160159613
+Has respiratory chronic condition (asthma or COPD)_No,-0.04158278946115485,0.04158278946115485
+Considered suicide - last 12 months_Yes,-0.04097106823452256,0.04097106823452256
+Severity of Canabis Dependence_No cannabis use,-0.03603857896138054,0.03603857896138054
+Satisfaction with life in general _Dissatisfied,0.03563283175058742,0.03563283175058742
+Total Household Income - All Sources_Unknown,0.03496785822683231,0.03496785822683231
+"Has a mood disorder (depression, bipolar, mania, dysthymia)_No",-0.033295355722904915,0.033295355722904915
+Perceived mental health _Good,-0.03268023572947175,0.03268023572947175
+"Total Household Income - All Sources_No income or less than $20,000",0.0314530553935875,0.0314530553935875
+"Marital Status_Widowed/Divorced/Separated/Single, never married",0.030800210759032325,0.030800210759032325
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months_Once a week,-0.028621969136896987,0.028621969136896987
+Seasonal flu shot - last time_2 years ago or more,-0.01882356983628659,0.01882356983628659
+Smoking status_Non-smoker (abstainer or experimental),0.01286986693282325,0.01286986693282325
+Usual place for immediate care for minor problem_Yes,-0.008104861396243569,0.008104861396243569
+Satisfaction with life in general _Very Satisfied,0.007716920912670193,0.007716920912670193
+Seasonal flu shot - last time_Less than 1 year ago,0.006072752112154886,0.006072752112154886
+"Has an anxiety disorder (phobia, OCD, panic)_No",0.005849943190188144,0.005849943190188144
+Perceived health _Good,0.003904128410458142,0.003904128410458142
+Satisfaction with life in general _Satisfied,0.0020465069700569168,0.0020465069700569168

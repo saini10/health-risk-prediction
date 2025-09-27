@@ -1,0 +1,3 @@
+Model,Sampler,TP,FP,TN,FN
+XGBoost,Undersampling,1670,4822,12737,330
+XGBoost,SMOTE Oversampling,1034,1806,15753,966
