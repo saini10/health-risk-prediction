@@ -68,7 +68,7 @@ Users provide demographic and lifestyle details to assess health risks.
 
 ### Output Screen
 The app generates risk probabilities and predictions for **High Blood Pressure, Diabetes, and Cardiovascular Disease**.  
-![App Output](docs/images/output.jpg)
+![App Output](docs/images/Output.jpg)
 
 
 ## 📊 Results & Visuals
@@ -90,7 +90,7 @@ Thresholds were optimized using **Youden’s J statistic** to balance recall and
 ### Confusion Matrix (Final Model)
 Final evaluation using custom thresholds shows balanced trade-offs between false positives and false negatives.  
 
-![Confusion Matrix](outputs/plots/part17_final_metrics/conf_matrix_highbp.png)
+![Confusion Matrix](outputs/plots/part17_final_metrics/conf_matrix_HighBP.png)
 
 ## 📚 References
 
